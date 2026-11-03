@@ -1,0 +1,4 @@
+docker --version
+docker info
+
+docker run hello-world
